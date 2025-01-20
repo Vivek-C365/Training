@@ -1,0 +1,23 @@
+.input{
+    height: 32px;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 12px 5px;
+    border: 1px solid gray;
+}
+
+.add-btn{
+    height: 50px;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    width: 80px;
+}
+
+.todo-parent{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding: 12px;
+}
